@@ -1,0 +1,193 @@
+SDLC Phases
+
+All the phases are shown below 
+
+• Encounter majority of problems
+• Find common language between 
+people outside of IT and people in IT
+• Leads to different problems around 
+terminology 
+• Business flow being capture 
+incorrectly 
+• Iterative approach
+
+
+Design
+
+Design our flows in language that IT 
+crowd can understand straight away
+• Overlaps with requirement analysis 
+• Desirable as diagrams are perfect 
+middle language that we are looking 
+for
+• Minimal Value Product
+
+Software is built
+• Builds technical artifacts that work and
+according to potentially flawed
+specification
+• Our software is going to be imperfect
+• Deliver early and deliver often is mantra
+followed to minimize impact of wrong
+specification
+• Stakeholders can test product before
+problem is too big to be tackled
+• Involving stakeholders early enough is
+good strategy
+• No matter what we do, our software has
+to be modular so we can plug and play
+modules in order to accommodate new
+requirements
+
+Testing
+
+Continuous Integration server will
+run testing and inform us about
+potential problems in application
+• Depending on complexity of
+software, testing can be very
+extensive
+• Continuous integration server
+focuses on running integration and
+acceptance
+
+Release
+Release
+Deliver software to what we call
+production
+• There will be bugs and reason why
+we planned our software to be able
+to fix problems quickly
+• Create something called as
+Continuous delivery pipelines
+• Enables developers to execute buildtest-
+deploy cycle very quickly
+• Deploy = Release
+
+Maintenance
+Maintenance
+
+There are two types of maintenance
+evolutive and corrective
+• Evolutive maintenance – evolve
+software by adding new
+functionalities or improving business
+flows to suit business needs
+• Corrective maintenance – One
+where we fix bugs and
+misconceptions
+• Minimize latter but we can not totally
+avoid
+
+Waterfall Model and Feedback Amendment in Waterfall Model
+• Classical Life cycle /Black
+Box Model
+• Sequential in Nature
+• Systematic, sequential
+approach to software
+development that begins
+with customer specification
+of requirements and
+progresses through
+planning, modeling,
+construction, and
+deployment, culminating in
+ongoing support of the
+completed software
+
+
+Advantages
+
+• Easy to use and follow
+• Cost effective
+• Each phase completely developed
+• Development processed in sequential manner, so very less chance of rework
+• Easy to manage the project
+• Easy documentation
+
+Waterfall Model Problems
+
+The main drawback of the waterfall model is the difficulty of accommodating change after the
+process is underway
+• In principle, a phase has to be complete before moving onto the next phase
+• Inflexible partitioning of the project into distinct stages makes it difficult to respond to changing
+customer requirements
+• Therefore, this model is only appropriate when the requirements are well-understood and changes will
+be fairly limited during the design process
+• Few business systems have stable requirements
+• Does Waterfall ends????
+• The waterfall model is mostly used for large systems engineering projects where a system is
+developed at several sites
+• In those circumstances, the plan-driven nature of the waterfall model helps coordinate the work
+
+
+Does Waterfall ends????
+• The waterfall model is mostly used for large systems engineering projects where a system is
+developed at several sites
+• In those circumstances, the plan-driven nature of the waterfall model helps coordinate the work
+
+Why Agile?
+The project will produce the wrong product
+• The project will produce a product of inferior quality
+• The project will be late
+• We’ll have to work 80 hour weeks
+• We’ll have to break commitments
+• We won’t be having fun
+
+Twelve Principles
+
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable
+software
+2. Welcome changing requirements, even late in development. Agile processes harness change for the
+customer's competitive advantage
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference
+to the shorter timescale
+4. Business people and developers must work together daily throughout the project
+5. Build projects around motivated individuals. Give them the environment and support they need, and
+trust them to get the job done
+6. The most efficient and effective method of conveying information to and within a development team
+is face-to-face conversation
+7. Working software is the primary measure of progress
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be
+able to maintain a constant pace indefinitely
+9. Continuous attention to technical excellence and good design enhances agility
+10. Simplicity--the art of maximizing the amount of work not done--is essential
+11. The best architectures, requirements, and designs emerge from self-organizing teams
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its
+behavior accordingly
+
+
+ITIL
+
+ITIL is a framework of best practices for delivering IT services
+• The ITIL processes within IT Service Management (ITSM) ensure that IT Services are provided
+in a focused, client-friendly and cost-optimized manner
+• ITIL’s systematic approach to IT service management can help businesses
+• Manage risk
+• Strengthen customer relations
+• Establish cost-effective practices
+• And build a stable IT environment
+• that allows for
+• Growth
+• Scale and
+• Change
+
+
+
+ITIL views ITSM as a lifecycle
+• Five Phases:
+• Service Strategy
+• Service Design
+• Service Transition
+• Service Operation
+• Service Improvement [create and maintain value]
+
+Is a Project???
+ITIL is not a “Project”
+• ITIL is ongoing journey
+• Benefits of ITIL:
+• Pink Elephant reports that Procter and Gamble saved about $500 million over four years by reducing
+help desk calls and improving operating procedures
+• Nationwide Insurance achieved a 40 percent reduction in system outages and estimates a $4.3 million
+ROI over three years
+• Capital One reduced its "business critical" incidents by 92 percent over two years
